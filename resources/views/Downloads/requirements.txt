@@ -1,0 +1,26 @@
+inside admin
+--------
+1- create registration and login system
+2- login/register by login.php
+3- show the full name of the user at the top right and top left of the admin panel on all pages.
+4- show users details in users.php (pagination not required, show entries not required).
+5- if we press edit, we can display user data and update it from edituser.php
+6- directly add user from addUser.php
+7- add categories for the furniture from addCategory.php
+8- show categories list on categories.php
+9- if we press delete we can remove the category only if it has no data in the furniture.
+10- edit the category if we press edit using editCategory.php (pagination not required, show entries not required).
+11- add furniture from addFurniture.php
+12- show furniture list on furnitures.php
+13- if we press delete we can remove the furniture.
+14- edit the furniture if we press edit using editFurniture.php
+15- no search is required on any page
+
+
+main website
+--------
+1- inside index.php display latest 8 products using titlte and image
+2- when we press any product we can display the product details on productpage.php
+only we need main image, title, description, small, large, price.
+3- only we need main image (the rest of images 'thumbnail' are demo no need to change).
+4- at the bottom, we should display same products (4 products) from the same category except this product.
